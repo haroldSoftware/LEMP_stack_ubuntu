@@ -1,5 +1,5 @@
 # LEMP Stack Installation and Configuration  
 
-# Prerequisites
+## Prerequisites
 
-# Linking Domain Names With IP Addresses  
+## Linking Domain Names With IP Addresses  
