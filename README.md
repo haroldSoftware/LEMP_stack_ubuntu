@@ -1,5 +1,5 @@
-## LAMP Stack Word Press Tutorial 
+# LEMP Stack Installation and Configuration  
 
-# Initial Server Set Up
+# Prerequisites
 
 # Linking Domain Names With IP Addresses  
